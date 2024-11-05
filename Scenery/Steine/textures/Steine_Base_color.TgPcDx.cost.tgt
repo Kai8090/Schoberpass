@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToTg.exe</Filename>
+			<Time d:type="cDeltaString">Thursday, April 27, 2023 22:13:25</Time>
+			<IntTime d:type="sUInt64">133271000050568645</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Steine\textures\Steine_Base_color.TgPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Friday, September 01, 2023 17:59:54</Time>
+			<IntTime d:type="sUInt64">133380575946615559</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Steine\textures\Steine_Base_color.ace</Filename>
+			<Time d:type="cDeltaString">Friday, September 01, 2023 17:50:40</Time>
+			<IntTime d:type="sUInt64">133380570403832784</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

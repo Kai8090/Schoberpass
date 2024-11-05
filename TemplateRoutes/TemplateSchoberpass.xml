@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cRouteBlueprint>
+			<BrowseFiltering>
+				<cBrowseFiltering>
+					<Africa d:type="cDeltaString">eFalse</Africa>
+					<Asia d:type="cDeltaString">eFalse</Asia>
+					<Australia d:type="cDeltaString">eFalse</Australia>
+					<Europe d:type="cDeltaString">eTrue</Europe>
+					<NorthAmerica d:type="cDeltaString">eFalse</NorthAmerica>
+					<SouthAmerica d:type="cDeltaString">eFalse</SouthAmerica>
+					<Modern d:type="cDeltaString">eTrue</Modern>
+					<Historic d:type="cDeltaString">eFalse</Historic>
+					<Heritage d:type="cDeltaString">eFalse</Heritage>
+					<Mountains d:type="cDeltaString">eTrue</Mountains>
+					<Plains d:type="cDeltaString">eTrue</Plains>
+					<Countryside d:type="cDeltaString">eFalse</Countryside>
+					<Urban d:type="cDeltaString">eTrue</Urban>
+					<CustomTag/>
+					<CountryCode/>
+				</cBrowseFiltering>
+			</BrowseFiltering>
+			<BrowseImageTextureID d:type="cDeltaString"></BrowseImageTextureID>
+			<DisplayName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">TemplateSchoberpass</English>
+					<French d:type="cDeltaString">TemplateSchoberpass</French>
+					<Italian d:type="cDeltaString">TemplateSchoberpass</Italian>
+					<German d:type="cDeltaString">TemplateSchoberpass</German>
+					<Spanish d:type="cDeltaString">TemplateSchoberpass</Spanish>
+					<Dutch d:type="cDeltaString">TemplateSchoberpass</Dutch>
+					<Polish d:type="cDeltaString">TemplateSchoberpass</Polish>
+					<Russian d:type="cDeltaString">TemplateSchoberpass</Russian>
+					<Other/>
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</DisplayName>
+			<RouteIntroDescriptionFilename d:type="cDeltaString"></RouteIntroDescriptionFilename>
+			<OriginLongitude d:type="sFloat64" d:alt_encoding="FE65F7E461A12C40" d:precision="string">14.3152</OriginLongitude>
+			<OriginLatitude d:type="sFloat64" d:alt_encoding="CA54C1A8A4C64740" d:precision="string">47.5519</OriginLatitude>
+			<TimetableTolerance d:type="sFloat64" d:alt_encoding="0000000000000000" d:precision="string">0</TimetableTolerance>
+			<Skies>
+				<cRouteBlueprint-sSkies>
+					<SpringSkyBlueprint>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">TimeOfDay\RWA_TOD Spring.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</SpringSkyBlueprint>
+					<SummerSkyBlueprint>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">TimeOfDay\RWA_TOD Summer.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</SummerSkyBlueprint>
+					<AutumnSkyBlueprint>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">TimeOfDay\RWA_TOD Autumn.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</AutumnSkyBlueprint>
+					<WinterSkyBlueprint>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">TimeOfDay\RWA_TOD Winter.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</WinterSkyBlueprint>
+				</cRouteBlueprint-sSkies>
+			</Skies>
+			<TextureID d:type="cDeltaString"></TextureID>
+			<BackgroundFilePath d:type="cDeltaString"></BackgroundFilePath>
+			<WeatherBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Weather\RWA_klar.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</WeatherBlueprint>
+			<TerrainBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Environment\Terrain\Texturing.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</TerrainBlueprint>
+			<MapBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</MapBlueprint>
+			<SpringCubeTextureID d:type="cDeltaString"></SpringCubeTextureID>
+			<SummerCubeTextureID d:type="cDeltaString"></SummerCubeTextureID>
+			<AutumnCubeTextureID d:type="cDeltaString"></AutumnCubeTextureID>
+			<WinterCubeTextureID d:type="cDeltaString"></WinterCubeTextureID>
+			<EditCameraBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</EditCameraBlueprint>
+			<ExternalCameraBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</ExternalCameraBlueprint>
+			<TracksideCameraBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</TracksideCameraBlueprint>
+			<CouplingCameraBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</CouplingCameraBlueprint>
+			<YardCameraBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</YardCameraBlueprint>
+			<DerailmentCameraBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</DerailmentCameraBlueprint>
+		</cRouteBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

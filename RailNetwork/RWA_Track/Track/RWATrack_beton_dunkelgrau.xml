@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cTrackSectionBlueprint>
+			<DisplayName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">RWATrack Concrete dark grey</English>
+					<French d:type="cDeltaString"></French>
+					<Italian d:type="cDeltaString"></Italian>
+					<German d:type="cDeltaString">RWATrack Beton dunkelgrau</German>
+					<Spanish d:type="cDeltaString"></Spanish>
+					<Dutch d:type="cDeltaString"></Dutch>
+					<Polish d:type="cDeltaString"></Polish>
+					<Russian d:type="cDeltaString"></Russian>
+					<Other/>
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</DisplayName>
+			<EditorGroundOffset d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</EditorGroundOffset>
+			<isTunnel d:type="bool">0</isTunnel>
+			<Render>
+				<cSectionRenderBlueprint>
+					<CrossSectionID d:type="cDeltaString">RWAustria_3\Schoberpass\RailNetwork\RWA_Track\Track\RWATrack_dunkelgrau</CrossSectionID>
+					<CrossSectionCapID d:type="cDeltaString">RWAustria_3\Schoberpass\RailNetwork\RWA_Track\Track\RWATrack_dunkelgrau_cap</CrossSectionCapID>
+					<CrossSectionWidth d:type="sFloat32" d:alt_encoding="0000000000001040" d:precision="string">4</CrossSectionWidth>
+					<CrossSectionHeight d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</CrossSectionHeight>
+					<CatenaryID d:type="cDeltaString"></CatenaryID>
+					<StartGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_dunkelgrau_end.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</StartGeometryBPID>
+					<MiddleGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\Betonschwelle_dunkel.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</MiddleGeometryBPID>
+					<EndGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_dunkelgrau_end.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</EndGeometryBPID>
+					<RotateEndGeometry d:type="cDeltaString">eTrue</RotateEndGeometry>
+					<PopulationFrequency d:type="sFloat32" d:alt_encoding="000000403333E33F" d:precision="string">0.6</PopulationFrequency>
+					<ProfileMatchesPopulation d:type="cDeltaString">eFalse</ProfileMatchesPopulation>
+					<LeftOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</LeftOffset>
+					<RightOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</RightOffset>
+					<CapIfSectionTypeChange d:type="cDeltaString">eFalse</CapIfSectionTypeChange>
+					<StartBufferOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</StartBufferOffset>
+					<EndBufferOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</EndBufferOffset>
+					<EditorOnly d:type="cDeltaString">eFalse</EditorOnly>
+					<SpecialCurve d:type="cDeltaString">eInvalid</SpecialCurve>
+				</cSectionRenderBlueprint>
+			</Render>
+			<JunctionProperties>
+				<cTrackSectionBlueprint-sJunctionPropertiesDesc>
+					<CheckRailIndent d:type="sFloat32" d:alt_encoding="000000403333C33F" d:precision="string">0.15</CheckRailIndent>
+					<GuardRailLength d:type="sFloat32" d:alt_encoding="000000403333FB3F" d:precision="string">1.7</GuardRailLength>
+					<GuardRailExtLength d:type="sFloat32" d:alt_encoding="000000000000D03F" d:precision="string">0.25</GuardRailExtLength>
+					<GuardRailExtOffset d:type="sFloat32" d:alt_encoding="000000A09999B93F" d:precision="string">0.1</GuardRailExtOffset>
+					<RailWidth d:type="sFloat32" d:alt_encoding="00000080976EB23F" d:precision="string">0.072</RailWidth>
+					<SleeperPitch d:type="sFloat32" d:alt_encoding="000000C0CCCCE43F" d:precision="string">0.65</SleeperPitch>
+					<SleeperHeight d:type="sFloat32" d:alt_encoding="000000C0F753C33F" d:precision="string">0.151</SleeperHeight>
+					<SleeperGaugeExt d:type="sFloat32" d:alt_encoding="000000A09999E13F" d:precision="string">0.55</SleeperGaugeExt>
+					<SleeperWidth d:type="sFloat32" d:alt_encoding="000000403333C33F" d:precision="string">0.15</SleeperWidth>
+					<SleeperMaxLength d:type="sFloat32" d:alt_encoding="0000006066660E40" d:precision="string">3.8</SleeperMaxLength>
+					<SleeperTextureID d:type="cDeltaString">RWAustria_3\Schoberpass\RailNetwork\RWA_Track\Track\textures\[08]Schwellen1</SleeperTextureID>
+					<SleeperTextureNormalID d:type="cDeltaString"></SleeperTextureNormalID>
+					<SleeperMinU d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</SleeperMinU>
+					<SleeperMaxU d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</SleeperMaxU>
+					<SleeperMinV d:type="sFloat32" d:alt_encoding="00000000D7A3E83F" d:precision="string">0.77</SleeperMinV>
+					<SleeperMaxV d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</SleeperMaxV>
+				</cTrackSectionBlueprint-sJunctionPropertiesDesc>
+			</JunctionProperties>
+			<BedRumbleSounds>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="5703">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Audio\RailNetwork\TrackBedRumble\Normal.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="5722">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Audio\RailNetwork\TrackBedRumble\Stosslueckengleis.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</BedRumbleSounds>
+			<DefaultBedRumbleSound>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">Audio\RailNetwork\TrackBedRumble\Normal.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</DefaultBedRumbleSound>
+			<BoundingBox/>
+		</cTrackSectionBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

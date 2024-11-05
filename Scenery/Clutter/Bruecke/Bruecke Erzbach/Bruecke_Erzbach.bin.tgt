@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Thursday, April 27, 2023 22:13:25</Time>
+			<IntTime d:type="sUInt64">133271000052104262</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Clutter\Bruecke\Bruecke Erzbach\Bruecke_Erzbach.bin</Filename>
+			<Time d:type="cDeltaString">Wednesday, August 21, 2024 10:04:49</Time>
+			<IntTime d:type="sUInt64">133687010896566344</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Clutter\Bruecke\Bruecke Erzbach\Bruecke_Erzbach.xml</Filename>
+			<Time d:type="cDeltaString">Wednesday, August 21, 2024 10:04:44</Time>
+			<IntTime d:type="sUInt64">133687010849881563</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Clutter\Bruecke\Bruecke Erzbach\Bruecke_Erzbach.igs</Filename>
+			<Time d:type="cDeltaString">Wednesday, August 21, 2024 10:03:25</Time>
+			<IntTime d:type="sUInt64">133687010056007276</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

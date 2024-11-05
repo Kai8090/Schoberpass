@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">BlueprintEditor2.exe</Filename>
+			<Time d:type="cDeltaString">Thursday, April 27, 2023 22:13:24</Time>
+			<IntTime d:type="sUInt64">133271000048251330</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Bahnhoefe\Eisenerz\Stadthaus 55.xml</Filename>
+			<Time d:type="cDeltaString">Wednesday, July 31, 2024 14:17:35</Time>
+			<IntTime d:type="sUInt64">133669018556277284</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Bahnhoefe\Eisenerz\Stadthaus 55.xml</Filename>
+			<Time d:type="cDeltaString">Wednesday, July 31, 2024 14:17:33</Time>
+			<IntTime d:type="sUInt64">133669018532499997</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Bahnhoefe\Eisenerz\Stadthaus 55.igs</Filename>
+			<Time d:type="cDeltaString">Wednesday, July 31, 2024 13:57:41</Time>
+			<IntTime d:type="sUInt64">133669006613952612</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

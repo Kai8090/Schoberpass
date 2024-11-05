@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToGeo.exe</Filename>
+			<Time d:type="cDeltaString">Tuesday, March 02, 2021 12:07:46</Time>
+			<IntTime d:type="sUInt64">132591568669186613</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Nordbahn\Scenery\Clutter\Betonquader\Betonquader.GeoPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Sunday, August 15, 2021 11:45:19</Time>
+			<IntTime d:type="sUInt64">132734943198491544</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Clutter\Betonquader\Betonquader.igs</Filename>
+			<Time d:type="cDeltaString">Monday, November 23, 2020 21:09:29</Time>
+			<IntTime d:type="sUInt64">132506357699253526</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

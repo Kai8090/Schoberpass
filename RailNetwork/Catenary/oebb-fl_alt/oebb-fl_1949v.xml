@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cTrackGantrySetBlueprint2>
+			<Name d:type="cDeltaString">oebb-fl_1949v</Name>
+			<BrowseInformation>
+				<iBrowseableBlueprint-cBrowseInformation>
+					<DisplayName>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString">OEBB FL 1949 vorges. Isolation</English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString">ÖBB FL 1949 vorges. Isolation</German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</DisplayName>
+					<Description>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString"></English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString"></German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</Description>
+					<Category d:type="cDeltaString">eTrackInfrastructure</Category>
+					<ValidInScenarios d:type="cDeltaString">eFalse</ValidInScenarios>
+				</iBrowseableBlueprint-cBrowseInformation>
+			</BrowseInformation>
+			<DistanceBetweenGantriesMin d:type="sFloat32" d:alt_encoding="0000000000003440" d:precision="string">20</DistanceBetweenGantriesMin>
+			<DistanceBetweenGantriesMax d:type="sFloat32" d:alt_encoding="0000000000805140" d:precision="string">70</DistanceBetweenGantriesMax>
+			<StaggerOnStraight d:type="sFloat32" d:alt_encoding="000000606666D63F" d:precision="string">0.35</StaggerOnStraight>
+			<MaxStaggerOnCurve d:type="sFloat32" d:alt_encoding="000000606666D63F" d:precision="string">0.35</MaxStaggerOnCurve>
+			<StartEndGantryBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</StartEndGantryBlueprintID>
+			<TrackGantries>
+				<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2 d:id="3906">
+					<BlueprintID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\Catenary\oebb-fl_alt\oebb-fl_1949v_k.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintID>
+					<TrackSpan d:type="sUInt32">1</TrackSpan>
+					<TrackSpanRange d:type="sFloat32" d:alt_encoding="0000000000001440" d:precision="string">5</TrackSpanRange>
+					<AnchorPoint d:type="cDeltaString">ANCHOR_TRACK_RIGHT</AnchorPoint>
+				</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2>
+				<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2 d:id="3915">
+					<BlueprintID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\Catenary\oebb-fl_alt\g_oebb-fl_1949v_l.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintID>
+					<TrackSpan d:type="sUInt32">1</TrackSpan>
+					<TrackSpanRange d:type="sFloat32" d:alt_encoding="0000000000001440" d:precision="string">5</TrackSpanRange>
+					<AnchorPoint d:type="cDeltaString">ANCHOR_TRACK_LEFT</AnchorPoint>
+				</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2>
+				<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2 d:id="3924">
+					<BlueprintID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\Catenary\oebb-fl_alt\oebb-fl_1949v_bstg_k.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintID>
+					<TrackSpan d:type="sUInt32">1</TrackSpan>
+					<TrackSpanRange d:type="sFloat32" d:alt_encoding="0000000000001440" d:precision="string">5</TrackSpanRange>
+					<AnchorPoint d:type="cDeltaString">ANCHOR_TRACK_RIGHT</AnchorPoint>
+				</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2>
+				<cTrackGantrySetBlueprint2-cTrackGantryBlueprint2 d:id="3933">
+					<BlueprintID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\Catenary\oebb-fl_alt\oebb-fl_1949v_bstg_l.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</BlueprintID>
+					<TrackSpan d:type="sUInt32">1</TrackSpan>
+					<TrackSpanRange d:type="sFloat32" d:alt_encoding="0000000000001440" d:precision="string">5</TrackSpanRange>
+					<AnchorPoint d:type="cDeltaString">ANCHOR_TRACK_LEFT</AnchorPoint>
+				</cTrackGantrySetBlueprint2-cTrackGantryBlueprint2>
+			</TrackGantries>
+		</cTrackGantrySetBlueprint2>
+	</Blueprint>
+</cBlueprintLoader>

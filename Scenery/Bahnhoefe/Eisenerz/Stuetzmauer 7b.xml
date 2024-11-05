@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cLoftSectionBlueprint xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+			<DisplayName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">RWA Stuetzmauer 7b</English>
+					<French d:type="cDeltaString">RWA Stuetzmauer 7b</French>
+					<Italian d:type="cDeltaString">RWA Stuetzmauer 7b</Italian>
+					<German d:type="cDeltaString">RWA Stuetzmauer 7b</German>
+					<Spanish d:type="cDeltaString">RWA Stuetzmauer 7b</Spanish>
+					<Dutch d:type="cDeltaString">RWA Stuetzmauer 7b</Dutch>
+					<Polish d:type="cDeltaString">RWA Stuetzmauer 7b</Polish>
+					<Russian d:type="cDeltaString">RWA Stuetzmauer 7b</Russian>
+					<Other />
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</DisplayName>
+			<EditorGroundOffset d:type="sFloat32">0</EditorGroundOffset>
+			<TrafficManagerBpID d:type="cDeltaString"></TrafficManagerBpID>
+			<Render>
+				<cSectionRenderBlueprint>
+					<CrossSectionID d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Bahnhoefe\Eisenerz\Stuetzmauer 7b</CrossSectionID>
+					<CrossSectionCapID d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Bahnhoefe\Eisenerz\Stuetzmauer 7b</CrossSectionCapID>
+					<CrossSectionWidth d:type="sFloat32">0</CrossSectionWidth>
+					<CrossSectionHeight d:type="sFloat32">0</CrossSectionHeight>
+					<CatenaryID d:type="cDeltaString"></CatenaryID>
+					<StartGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</StartGeometryBPID>
+					<MiddleGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</MiddleGeometryBPID>
+					<EndGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</EndGeometryBPID>
+					<RotateEndGeometry d:type="cDeltaString">eTrue</RotateEndGeometry>
+					<PopulationFrequency d:type="sFloat32">0</PopulationFrequency>
+					<ProfileMatchesPopulation d:type="cDeltaString">eFalse</ProfileMatchesPopulation>
+					<LeftOffset d:type="sFloat32">0</LeftOffset>
+					<RightOffset d:type="sFloat32">0</RightOffset>
+					<CapIfSectionTypeChange d:type="cDeltaString">eFalse</CapIfSectionTypeChange>
+					<StartBufferOffset d:type="sFloat32">0</StartBufferOffset>
+					<EndBufferOffset d:type="sFloat32">0</EndBufferOffset>
+					<EditorOnly d:type="cDeltaString">eFalse</EditorOnly>
+					<SpecialCurve d:type="cDeltaString">eInvalid</SpecialCurve>
+				</cSectionRenderBlueprint>
+			</Render>
+			<CanEditWidth d:type="cDeltaString">eFalse</CanEditWidth>
+			<MinimumWidth d:type="sFloat32">0.5</MinimumWidth>
+			<MaximumWidth d:type="sFloat32">100</MaximumWidth>
+			<Category d:type="cDeltaString">eScenery</Category>
+			<BoundingBox />
+		</cLoftSectionBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

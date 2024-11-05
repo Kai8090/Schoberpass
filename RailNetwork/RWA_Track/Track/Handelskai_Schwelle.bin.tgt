@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Thursday, April 21, 2022 22:19:10</Time>
+			<IntTime d:type="sUInt64">132950459506798079</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Nordbahn\RailNetwork\RWA_Track\Track\Handelskai_Schwelle.bin</Filename>
+			<Time d:type="cDeltaString">Friday, July 29, 2022 13:21:55</Time>
+			<IntTime d:type="sUInt64">133035673154475265</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RailNetwork\RWA_Track\Track\Handelskai_Schwelle.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, September 23, 2021 21:20:08</Time>
+			<IntTime d:type="sUInt64">132768984080068997</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RailNetwork\RWA_Track\Track\Handelskai_Schwelle.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, September 23, 2021 21:29:39</Time>
+			<IntTime d:type="sUInt64">132768989794515687</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

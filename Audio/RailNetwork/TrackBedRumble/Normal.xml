@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cTrackSoundBlueprint>
+			<RumbleAudioControlName d:type="cDeltaString">RWAustria_3\Schoberpass\Audio\RailNetwork\TrackBedRumble\TrackBedRumble</RumbleAudioControlName>
+			<TingleAudioControlName d:type="cDeltaString">RWAustria_3\Schoberpass\Audio\RailNetwork\TrackBedRumble\TingleAudioControl</TingleAudioControlName>
+			<JunctionAudioControlName d:type="cDeltaString"></JunctionAudioControlName>
+			<DerailmentAudioControlName d:type="cDeltaString"></DerailmentAudioControlName>
+			<ReverbEffect>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</ReverbEffect>
+			<DistancebetweenJoints d:type="sFloat32" d:alt_encoding="0000000000406F40" d:precision="string">250</DistancebetweenJoints>
+			<JunctionClatterDistance d:type="sFloat32" d:alt_encoding="0000000000002440" d:precision="string">10</JunctionClatterDistance>
+			<IsTunnel d:type="bool">0</IsTunnel>
+			<BrowseInformation>
+				<iBrowseableBlueprint-cBrowseInformation>
+					<DisplayName>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString">Normal</English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString">Normal</German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</DisplayName>
+					<Description>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString"></English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString"></German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</Description>
+					<Category d:type="cDeltaString">eExcludeFromBrowserList</Category>
+					<ValidInScenarios d:type="cDeltaString">eFalse</ValidInScenarios>
+				</iBrowseableBlueprint-cBrowseInformation>
+			</BrowseInformation>
+			<Colour>
+				<cHcColour>
+					<Red d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</Red>
+					<Green d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</Green>
+					<Blue d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</Blue>
+					<Alpha d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</Alpha>
+				</cHcColour>
+			</Colour>
+		</cTrackSoundBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

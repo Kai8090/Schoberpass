@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToTg.exe</Filename>
+			<Time d:type="cDeltaString">Thursday, April 27, 2023 22:13:25</Time>
+			<IntTime d:type="sUInt64">133271000050568645</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Nordbahn\RailNetwork\RWA_Track\Track\textures\Schotter_grau.TgPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Sunday, May 28, 2023 21:25:24</Time>
+			<IntTime d:type="sUInt64">133297755247219383</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RailNetwork\RWA_Track\Track\textures\Schotter_grau.dds</Filename>
+			<Time d:type="cDeltaString">Saturday, April 17, 2021 18:28:10</Time>
+			<IntTime d:type="sUInt64">132631504900000000</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

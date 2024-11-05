@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">BlueprintEditor2.exe</Filename>
+			<Time d:type="cDeltaString">Friday, August 23, 2024 19:34:10</Time>
+			<IntTime d:type="sUInt64">133689080508550838</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Bahnhoefe\Hieflau\Lawinentunnel Hieflau.xml</Filename>
+			<Time d:type="cDeltaString">Tuesday, September 24, 2024 12:28:59</Time>
+			<IntTime d:type="sUInt64">133716473390631908</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Bahnhoefe\Hieflau\Lawinentunnel Hieflau.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, August 29, 2024 22:08:33</Time>
+			<IntTime d:type="sUInt64">133694357133325079</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Bahnhoefe\Hieflau\Lawinentunnel Hieflau.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, August 29, 2024 22:43:35</Time>
+			<IntTime d:type="sUInt64">133694378156907098</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

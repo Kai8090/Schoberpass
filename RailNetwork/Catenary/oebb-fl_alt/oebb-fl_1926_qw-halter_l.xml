@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cGantryBlueprint>
+			<Name d:type="cDeltaString">oebb-fl_1926_qw-halter_l</Name>
+			<BrowseInformation>
+				<iBrowseableBlueprint-cBrowseInformation>
+					<DisplayName>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString">OEBB FL 1926 Querjoch-Halter L</English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString">ÖBB FL 1926 Querjoch-Halter L</German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</DisplayName>
+					<Description>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString"></English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString"></German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</Description>
+					<Category d:type="cDeltaString">eExcludeFromBrowserList</Category>
+					<ValidInScenarios d:type="cDeltaString">eFalse</ValidInScenarios>
+				</iBrowseableBlueprint-cBrowseInformation>
+			</BrowseInformation>
+			<PosOriComponent>
+				<cPosOriBlueprint/>
+			</PosOriComponent>
+			<RenderComponent>
+				<cSceneryRenderBlueprint>
+					<PrimaryNamedTextureSet>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</PrimaryNamedTextureSet>
+					<SecondaryNamedTextureSet>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</SecondaryNamedTextureSet>
+					<GeometryID d:type="cDeltaString"></GeometryID>
+					<CollisionGeometryID d:type="cDeltaString"></CollisionGeometryID>
+					<Pickable d:type="cDeltaString">eTrue</Pickable>
+					<CastsShadows d:type="cDeltaString">eTrue</CastsShadows>
+					<ShadowType d:type="cDeltaString">eShadowType_Blobby</ShadowType>
+					<ViewType d:type="cDeltaString">ExternalView</ViewType>
+					<Palettised d:type="cDeltaString">eFalse</Palettised>
+					<Palette0Index d:type="sInt32">-1</Palette0Index>
+					<Palette1Index d:type="sInt32">-1</Palette1Index>
+					<Palette2Index d:type="sInt32">-1</Palette2Index>
+					<HeatHaze/>
+					<TexText/>
+					<ProjectedLightElement/>
+					<Instancable d:type="bool">0</Instancable>
+					<DetailLevelGenerationRange>
+						<cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+							<HighestLevel_1isHighest d:type="sInt32">1</HighestLevel_1isHighest>
+							<LowestLevel_10isLowest d:type="sInt32">10</LowestLevel_10isLowest>
+						</cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+					</DetailLevelGenerationRange>
+				</cSceneryRenderBlueprint>
+			</RenderComponent>
+			<ContainerComponent>
+				<cEntityContainerBlueprint>
+					<TrackTerrainInEditor d:type="bool">0</TrackTerrainInEditor>
+					<Children>
+						<cEntityContainerBlueprint-sChild d:id="2494">
+							<ChildName d:type="cDeltaString">Left</ChildName>
+							<BlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">RailNetwork\Catenary\oebb-fl_alt\oebb-fl_1926_qw-halter_l_sc.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</BlueprintID>
+							<Matrix>
+								<cHcRMatrix4x4>
+									<Element>
+										<e d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</e>
+										<e d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</e>
+									</Element>
+								</cHcRMatrix4x4>
+							</Matrix>
+							<ParentNodeName d:type="cDeltaString"></ParentNodeName>
+						</cEntityContainerBlueprint-sChild>
+					</Children>
+				</cEntityContainerBlueprint>
+			</ContainerComponent>
+			<CollisionComponent>
+				<cCollisionComponentBlueprint>
+					<Boxes/>
+					<RequiredAtEndOfTrack d:type="bool">0</RequiredAtEndOfTrack>
+				</cCollisionComponentBlueprint>
+			</CollisionComponent>
+			<GantryComponent>
+				<cGantryComponentBlueprint>
+					<PushOff d:type="cDeltaString">eFalse</PushOff>
+					<Node>
+						<cGantryComponentBlueprint-sNodeDescriptor d:id="2526">
+							<AnchorType d:type="cDeltaString">CatenaryWireThroughPoint</AnchorType>
+							<ChildName d:type="cDeltaString">Left</ChildName>
+							<NodeName d:type="cDeltaString">catenary01</NodeName>
+							<LoftBlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">RailNetwork\Catenary\Draht\OEBB_Fahrleitung.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</LoftBlueprintID>
+						</cGantryComponentBlueprint-sNodeDescriptor>
+						<cGantryComponentBlueprint-sNodeDescriptor d:id="2535">
+							<AnchorType d:type="cDeltaString">ContactWireThroughPoint</AnchorType>
+							<ChildName d:type="cDeltaString">Left</ChildName>
+							<NodeName d:type="cDeltaString">contact01</NodeName>
+							<LoftBlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">RailNetwork\Catenary\Draht\OEBB_Fahrleitung.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</LoftBlueprintID>
+						</cGantryComponentBlueprint-sNodeDescriptor>
+					</Node>
+				</cGantryComponentBlueprint>
+			</GantryComponent>
+		</cGantryBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

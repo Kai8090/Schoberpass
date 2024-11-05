@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Thursday, April 27, 2023 22:13:25</Time>
+			<IntTime d:type="sUInt64">133271000052104262</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Bahnhoefe\Eisenerz\Stuetzmauer 7b.bin</Filename>
+			<Time d:type="cDeltaString">Thursday, August 15, 2024 23:50:17</Time>
+			<IntTime d:type="sUInt64">133682322176834263</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Bahnhoefe\Eisenerz\Stuetzmauer 7b.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, August 15, 2024 23:50:17</Time>
+			<IntTime d:type="sUInt64">133682322173623476</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

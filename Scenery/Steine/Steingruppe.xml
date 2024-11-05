@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cSceneryBlueprint xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+			<Name d:type="cDeltaString">RWA Steingruppe</Name>
+			<BrowseInformation>
+				<iBrowseableBlueprint-cBrowseInformation>
+					<DisplayName>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString">RWA Steingruppe</English>
+							<French d:type="cDeltaString">RWA Steingruppe</French>
+							<Italian d:type="cDeltaString">RWA Steingruppe</Italian>
+							<German d:type="cDeltaString">RWA Steingruppe</German>
+							<Spanish d:type="cDeltaString">RWA Steingruppe</Spanish>
+							<Dutch d:type="cDeltaString">RWA Steingruppe</Dutch>
+							<Polish d:type="cDeltaString">RWA Steingruppe</Polish>
+							<Russian d:type="cDeltaString">RWA Steingruppe</Russian>
+							<Other />
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</DisplayName>
+					<Description>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString"></English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString"></German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other />
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</Description>
+					<Category d:type="cDeltaString">eMisc</Category>
+					<ValidInScenarios d:type="cDeltaString">eFalse</ValidInScenarios>
+				</iBrowseableBlueprint-cBrowseInformation>
+			</BrowseInformation>
+			<RenderComponent>
+				<cSceneryRenderBlueprint>
+					<PrimaryNamedTextureSet>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</PrimaryNamedTextureSet>
+					<SecondaryNamedTextureSet>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</SecondaryNamedTextureSet>
+					<GeometryID d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Steine\[00]Stein 6</GeometryID>
+					<CollisionGeometryID d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Steine\[00]Stein 6</CollisionGeometryID>
+					<Pickable d:type="cDeltaString">eTrue</Pickable>
+					<CastsShadows d:type="cDeltaString">eTrue</CastsShadows>
+					<ShadowType d:type="cDeltaString">eShadowType_Blobby</ShadowType>
+					<ViewType d:type="cDeltaString">ExternalView</ViewType>
+					<Palettised d:type="cDeltaString">eFalse</Palettised>
+					<Palette0Index d:type="sInt32">-1</Palette0Index>
+					<Palette1Index d:type="sInt32">-1</Palette1Index>
+					<Palette2Index d:type="sInt32">-1</Palette2Index>
+					<HeatHaze />
+					<TexText />
+					<ProjectedLightElement />
+					<Instancable d:type="bool">0</Instancable>
+					<DetailLevelGenerationRange>
+						<cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+							<HighestLevel_1isHighest d:type="sInt32">1</HighestLevel_1isHighest>
+							<LowestLevel_10isLowest d:type="sInt32">10</LowestLevel_10isLowest>
+						</cSceneryRenderBlueprint-sDetailLevelGenerationRange>
+					</DetailLevelGenerationRange>
+				</cSceneryRenderBlueprint>
+			</RenderComponent>
+			<PosOriComponent>
+				<cPosOriBlueprint />
+			</PosOriComponent>
+			<ContainerComponent>
+				<cEntityContainerBlueprint>
+					<TrackTerrainInEditor d:type="bool">0</TrackTerrainInEditor>
+					<Children>
+						<cEntityContainerBlueprint-sChild d:id="15295">
+							<ChildName d:type="cDeltaString">Stein 1</ChildName>
+							<BlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">Scenery\Steine\Stein 1.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</BlueprintID>
+							<Matrix>
+								<cHcRMatrix4x4>
+									<Element>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">-0.1045532</e>
+										<e d:type="sFloat32">4.768372E-07</e>
+										<e d:type="sFloat32">1.04075</e>
+										<e d:type="sFloat32">1</e>
+									</Element>
+								</cHcRMatrix4x4>
+							</Matrix>
+							<ParentNodeName d:type="cDeltaString"></ParentNodeName>
+						</cEntityContainerBlueprint-sChild>
+						<cEntityContainerBlueprint-sChild d:id="15321">
+							<ChildName d:type="cDeltaString">Stein 2</ChildName>
+							<BlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">Scenery\Steine\Stein 2.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</BlueprintID>
+							<Matrix>
+								<cHcRMatrix4x4>
+									<Element>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0.2096686</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">-0.04229736</e>
+										<e d:type="sFloat32">1</e>
+									</Element>
+								</cHcRMatrix4x4>
+							</Matrix>
+							<ParentNodeName d:type="cDeltaString"></ParentNodeName>
+						</cEntityContainerBlueprint-sChild>
+						<cEntityContainerBlueprint-sChild d:id="15347">
+							<ChildName d:type="cDeltaString">Stein 3</ChildName>
+							<BlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">Scenery\Steine\Stein 3.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</BlueprintID>
+							<Matrix>
+								<cHcRMatrix4x4>
+									<Element>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">-0.3025513</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0.2416015</e>
+										<e d:type="sFloat32">1</e>
+									</Element>
+								</cHcRMatrix4x4>
+							</Matrix>
+							<ParentNodeName d:type="cDeltaString"></ParentNodeName>
+						</cEntityContainerBlueprint-sChild>
+						<cEntityContainerBlueprint-sChild d:id="15373">
+							<ChildName d:type="cDeltaString">Stein 4</ChildName>
+							<BlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">Scenery\Steine\Stein 4.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</BlueprintID>
+							<Matrix>
+								<cHcRMatrix4x4>
+									<Element>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1.630112</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0.8778586</e>
+										<e d:type="sFloat32">1</e>
+									</Element>
+								</cHcRMatrix4x4>
+							</Matrix>
+							<ParentNodeName d:type="cDeltaString"></ParentNodeName>
+						</cEntityContainerBlueprint-sChild>
+						<cEntityContainerBlueprint-sChild d:id="15399">
+							<ChildName d:type="cDeltaString">Stein 5</ChildName>
+							<BlueprintID>
+								<iBlueprintLibrary-cAbsoluteBlueprintID>
+									<BlueprintSetID>
+										<iBlueprintLibrary-cBlueprintSetID>
+											<Provider d:type="cDeltaString">RWAustria_3</Provider>
+											<Product d:type="cDeltaString">Schoberpass</Product>
+										</iBlueprintLibrary-cBlueprintSetID>
+									</BlueprintSetID>
+									<BlueprintID d:type="cDeltaString">Scenery\Steine\Stein 5.xml</BlueprintID>
+								</iBlueprintLibrary-cAbsoluteBlueprintID>
+							</BlueprintID>
+							<Matrix>
+								<cHcRMatrix4x4>
+									<Element>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">1</e>
+										<e d:type="sFloat32">0</e>
+										<e d:type="sFloat32">0.6422596</e>
+										<e d:type="sFloat32">4.768372E-07</e>
+										<e d:type="sFloat32">-0.2478638</e>
+										<e d:type="sFloat32">1</e>
+									</Element>
+								</cHcRMatrix4x4>
+							</Matrix>
+							<ParentNodeName d:type="cDeltaString"></ParentNodeName>
+						</cEntityContainerBlueprint-sChild>
+					</Children>
+				</cEntityContainerBlueprint>
+			</ContainerComponent>
+			<CollisionComponent>
+				<cCollisionComponentBlueprint>
+					<Boxes />
+					<RequiredAtEndOfTrack d:type="bool">0</RequiredAtEndOfTrack>
+				</cCollisionComponentBlueprint>
+			</CollisionComponent>
+		</cSceneryBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

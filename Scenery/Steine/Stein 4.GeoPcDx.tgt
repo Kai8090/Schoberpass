@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToGeo.exe</Filename>
+			<Time d:type="cDeltaString">Thursday, April 27, 2023 22:13:24</Time>
+			<IntTime d:type="sUInt64">133271000048261438</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Steine\Stein 4.GeoPcDx</Filename>
+			<Time d:type="cDeltaString">Friday, September 01, 2023 18:37:52</Time>
+			<IntTime d:type="sUInt64">133380598722922132</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Steine\Stein 4.igs</Filename>
+			<Time d:type="cDeltaString">Friday, September 01, 2023 17:48:49</Time>
+			<IntTime d:type="sUInt64">133380569297617464</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

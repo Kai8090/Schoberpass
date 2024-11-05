@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Friday, August 23, 2024 19:52:32</Time>
+			<IntTime d:type="sUInt64">133689091529872925</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Bahnhoefe\Hieflau\Ladehaus Hieflau.bin</Filename>
+			<Time d:type="cDeltaString">Tuesday, September 24, 2024 12:28:38</Time>
+			<IntTime d:type="sUInt64">133716473185085936</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Bahnhoefe\Hieflau\Ladehaus Hieflau.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, August 29, 2024 22:08:05</Time>
+			<IntTime d:type="sUInt64">133694356858557974</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Bahnhoefe\Hieflau\Ladehaus Hieflau.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, August 29, 2024 22:02:43</Time>
+			<IntTime d:type="sUInt64">133694353633646382</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">serz.exe</Filename>
+			<Time d:type="cDeltaString">Friday, August 23, 2024 19:52:32</Time>
+			<IntTime d:type="sUInt64">133689091529872925</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Steine\Stein 4.bin</Filename>
+			<Time d:type="cDeltaString">Saturday, September 28, 2024 17:32:43</Time>
+			<IntTime d:type="sUInt64">133720111638710167</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Steine\Stein 4.xml</Filename>
+			<Time d:type="cDeltaString">Friday, September 01, 2023 20:03:44</Time>
+			<IntTime d:type="sUInt64">133380650243379965</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Steine\Stein 4.igs</Filename>
+			<Time d:type="cDeltaString">Friday, September 01, 2023 17:48:49</Time>
+			<IntTime d:type="sUInt64">133380569297617464</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

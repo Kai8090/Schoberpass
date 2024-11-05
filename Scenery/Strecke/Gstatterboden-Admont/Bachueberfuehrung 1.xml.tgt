@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">BlueprintEditor2.exe</Filename>
+			<Time d:type="cDeltaString">Friday, August 23, 2024 19:34:10</Time>
+			<IntTime d:type="sUInt64">133689080508550838</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Strecke\Gstatterboden-Admont\Bachueberfuehrung 1.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, October 31, 2024 08:57:09</Time>
+			<IntTime d:type="sUInt64">133748350295451111</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Strecke\Gstatterboden-Admont\Bachueberfuehrung 1.xml</Filename>
+			<Time d:type="cDeltaString">Thursday, October 31, 2024 08:35:09</Time>
+			<IntTime d:type="sUInt64">133748337095774808</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Strecke\Gstatterboden-Admont\Bachueberfuehrung 1.igs</Filename>
+			<Time d:type="cDeltaString">Wednesday, October 30, 2024 23:27:49</Time>
+			<IntTime d:type="sUInt64">133748008694705273</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

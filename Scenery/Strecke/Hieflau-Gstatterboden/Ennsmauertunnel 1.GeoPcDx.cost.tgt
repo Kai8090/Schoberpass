@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">ConvertToGeo.exe</Filename>
+			<Time d:type="cDeltaString">Friday, August 23, 2024 19:34:10</Time>
+			<IntTime d:type="sUInt64">133689080508563469</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Strecke\Hieflau-Gstatterboden\Ennsmauertunnel 1.GeoPcDx.cost</Filename>
+			<Time d:type="cDeltaString">Thursday, September 19, 2024 23:53:50</Time>
+			<IntTime d:type="sUInt64">133712564306484560</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Strecke\Hieflau-Gstatterboden\Ennsmauertunnel 1.igs</Filename>
+			<Time d:type="cDeltaString">Thursday, September 19, 2024 23:50:17</Time>
+			<IntTime d:type="sUInt64">133712562173938857</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

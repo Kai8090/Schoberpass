@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cTrackRulesBlueprint>
+			<TrackTypes>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14770">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_beton_frisch.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14775">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_beton_grau.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14780">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_beton_dunkelgrau.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14785">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_beton_braun.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14790">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_beton_dunkelbraun.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14795">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_holz_grau.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14800">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_holz_dunkelgrau.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14805">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_holz_braun.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14810">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_holz_dunkelbraun.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+				<iBlueprintLibrary-cAbsoluteBlueprintID d:id="14815">
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_tunnel_dreckig_holz.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</TrackTypes>
+			<DefaultTrackType>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString">RWAustria_3</Provider>
+							<Product d:type="cDeltaString">Schoberpass</Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_beton_grau.xml</BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</DefaultTrackType>
+			<DefaultLineType>
+				<Network-iTrackNetworkLineType-cPropertyValue>
+					<LineType d:type="cDeltaString">MainLine</LineType>
+				</Network-iTrackNetworkLineType-cPropertyValue>
+			</DefaultLineType>
+			<DefaultSpeedLimit>
+				<Network-iTrackNetworkSpeedLimit-cPropertyValue>
+					<Primary d:type="sInt32">50</Primary>
+					<Secondary d:type="sInt32">50</Secondary>
+				</Network-iTrackNetworkSpeedLimit-cPropertyValue>
+			</DefaultSpeedLimit>
+			<DefaultLineDirection>
+				<Network-iTrackNetworkLineDirection-cPropertyValue>
+					<LineDirection d:type="cDeltaString">Both</LineDirection>
+				</Network-iTrackNetworkLineDirection-cPropertyValue>
+			</DefaultLineDirection>
+			<DefaultElectrification>
+				<Network-iTrackNetworkElectrification-cPropertyValue>
+					<Electrification d:type="cDeltaString">OverheadWires</Electrification>
+				</Network-iTrackNetworkElectrification-cPropertyValue>
+			</DefaultElectrification>
+			<DefaultSCollision>
+				<Network-iTrackNetworkSpecialCollision-cPropertyValue>
+					<SpecialCollision d:type="cDeltaString">Off</SpecialCollision>
+				</Network-iTrackNetworkSpecialCollision-cPropertyValue>
+			</DefaultSCollision>
+			<DefaultSuperelevation>
+				<Network-iTrackNetworkSuperelevation-cPropertyValue>
+					<MaxCantAngleDegrees d:type="sFloat32" d:alt_encoding="0000006066661640" d:precision="string">5.6</MaxCantAngleDegrees>
+					<CurveToAnglePercent d:type="sFloat32" d:alt_encoding="0000000000003240" d:precision="string">18</CurveToAnglePercent>
+				</Network-iTrackNetworkSuperelevation-cPropertyValue>
+			</DefaultSuperelevation>
+			<DefaultRideQuality>
+				<Network-iTrackNetworkRideQuality-cPropertyValue>
+					<LineUnevenness d:type="sFloat32" d:alt_encoding="0000000000002440" d:precision="string">10</LineUnevenness>
+				</Network-iTrackNetworkRideQuality-cPropertyValue>
+			</DefaultRideQuality>
+			<GradientValue d:type="cDeltaString">PerMill</GradientValue>
+			<SpeedUnitValue d:type="cDeltaString">KPH</SpeedUnitValue>
+			<TrackGauge d:type="sFloat32" d:alt_encoding="00000000006C9640" d:precision="string">1435</TrackGauge>
+			<ParallelDistance d:type="sFloat32" d:alt_encoding="0000006066661240" d:precision="string">4.6</ParallelDistance>
+			<CatenaryHeight d:type="sFloat32" d:alt_encoding="0000000000001640" d:precision="string">5.5</CatenaryHeight>
+			<MainLineTrackLimits>
+				<iTrackRulesBlueprint-sCurvatureLimits>
+					<MaxSpeedTolerance d:type="sUInt32">55</MaxSpeedTolerance>
+					<MinRadius d:type="sUInt32">150</MinRadius>
+				</iTrackRulesBlueprint-sCurvatureLimits>
+			</MainLineTrackLimits>
+			<YardTrackLimits>
+				<iTrackRulesBlueprint-sCurvatureLimits>
+					<MaxSpeedTolerance d:type="sUInt32">55</MaxSpeedTolerance>
+					<MinRadius d:type="sUInt32">150</MinRadius>
+				</iTrackRulesBlueprint-sCurvatureLimits>
+			</YardTrackLimits>
+			<PassengerTrackLimits>
+				<iTrackRulesBlueprint-sCurvatureLimits>
+					<MaxSpeedTolerance d:type="sUInt32">55</MaxSpeedTolerance>
+					<MinRadius d:type="sUInt32">150</MinRadius>
+				</iTrackRulesBlueprint-sCurvatureLimits>
+			</PassengerTrackLimits>
+			<FreightTrackLimits>
+				<iTrackRulesBlueprint-sCurvatureLimits>
+					<MaxSpeedTolerance d:type="sUInt32">55</MaxSpeedTolerance>
+					<MinRadius d:type="sUInt32">150</MinRadius>
+				</iTrackRulesBlueprint-sCurvatureLimits>
+			</FreightTrackLimits>
+			<SuperElevation d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</SuperElevation>
+			<CatenaryBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</CatenaryBlueprint>
+			<ThirdRailBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</ThirdRailBlueprint>
+			<FourthRailBlueprint>
+				<iBlueprintLibrary-cAbsoluteBlueprintID>
+					<BlueprintSetID>
+						<iBlueprintLibrary-cBlueprintSetID>
+							<Provider d:type="cDeltaString"></Provider>
+							<Product d:type="cDeltaString"></Product>
+						</iBlueprintLibrary-cBlueprintSetID>
+					</BlueprintSetID>
+					<BlueprintID d:type="cDeltaString"></BlueprintID>
+				</iBlueprintLibrary-cAbsoluteBlueprintID>
+			</FourthRailBlueprint>
+			<ManualJunctionEntity>
+				<iTrackRulesBlueprint-sPatternEntityDesc>
+					<Blueprint>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\Infra\Weichenlaterne.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</Blueprint>
+					<SidewaysOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</SidewaysOffset>
+					<AnimID d:type="cDeltaString">Weichenlaterne</AnimID>
+					<TransitionTime d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</TransitionTime>
+				</iTrackRulesBlueprint-sPatternEntityDesc>
+			</ManualJunctionEntity>
+			<AutomaticJunctionEntity>
+				<iTrackRulesBlueprint-sPatternEntityDesc>
+					<Blueprint>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString"></Provider>
+									<Product d:type="cDeltaString"></Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString"></BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</Blueprint>
+					<SidewaysOffset d:type="sFloat32" d:alt_encoding="00000000AAF1E63F" d:precision="string">0.717</SidewaysOffset>
+					<AnimID d:type="cDeltaString"></AnimID>
+					<TransitionTime d:type="sFloat32" d:alt_encoding="000000000000F03F" d:precision="string">1</TransitionTime>
+				</iTrackRulesBlueprint-sPatternEntityDesc>
+			</AutomaticJunctionEntity>
+			<TrackSpeedLimitColours/>
+			<BrowseInformation>
+				<iBrowseableBlueprint-cBrowseInformation>
+					<DisplayName>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString">RWATracks 50</English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString">RWATracks 50</German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</DisplayName>
+					<Description>
+						<Localisation-cUserLocalisedString>
+							<English d:type="cDeltaString"></English>
+							<French d:type="cDeltaString"></French>
+							<Italian d:type="cDeltaString"></Italian>
+							<German d:type="cDeltaString"></German>
+							<Spanish d:type="cDeltaString"></Spanish>
+							<Dutch d:type="cDeltaString"></Dutch>
+							<Polish d:type="cDeltaString"></Polish>
+							<Russian d:type="cDeltaString"></Russian>
+							<Other/>
+							<Key d:type="cDeltaString"></Key>
+						</Localisation-cUserLocalisedString>
+					</Description>
+					<Category d:type="cDeltaString">eExcludeFromBrowserList</Category>
+					<ValidInScenarios d:type="cDeltaString">eFalse</ValidInScenarios>
+				</iBrowseableBlueprint-cBrowseInformation>
+			</BrowseInformation>
+		</cTrackRulesBlueprint>
+	</Blueprint>
+</cBlueprintLoader>

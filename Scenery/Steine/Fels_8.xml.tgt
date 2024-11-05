@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBuildTarget xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0" d:id="1">
+	<ToolFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">BlueprintEditor2.exe</Filename>
+			<Time d:type="cDeltaString">Friday, August 23, 2024 19:34:10</Time>
+			<IntTime d:type="sUInt64">133689080508550838</IntTime>
+		</cFileVersionID>
+	</ToolFileVersionID>
+	<TargetFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">RWAustria_3\Schoberpass\Scenery\Steine\Fels_8.xml</Filename>
+			<Time d:type="cDeltaString">Saturday, September 28, 2024 17:41:31</Time>
+			<IntTime d:type="sUInt64">133720116917030230</IntTime>
+		</cFileVersionID>
+	</TargetFileVersionID>
+	<SourceFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Steine\Fels_8.xml</Filename>
+			<Time d:type="cDeltaString">Saturday, September 28, 2024 17:41:31</Time>
+			<IntTime d:type="sUInt64">133720116916675080</IntTime>
+		</cFileVersionID>
+		<cFileVersionID>
+			<Filename d:type="cDeltaString">Scenery\Steine\Fels_8.igs</Filename>
+			<Time d:type="cDeltaString">Saturday, September 28, 2024 17:20:22</Time>
+			<IntTime d:type="sUInt64">133720104229018331</IntTime>
+		</cFileVersionID>
+	</SourceFileVersionID>
+</cBuildTarget>

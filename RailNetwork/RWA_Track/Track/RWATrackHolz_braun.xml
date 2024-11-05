@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cBlueprintLoader xmlns:d="http://www.kuju.com/TnT/2003/Delta" d:version="1.0">
+	<Blueprint>
+		<cLoftSectionBlueprint>
+			<DisplayName>
+				<Localisation-cUserLocalisedString>
+					<English d:type="cDeltaString">RWATrackHolz_braun</English>
+					<French d:type="cDeltaString">RWATrackHolz_braun</French>
+					<Italian d:type="cDeltaString">RWATrackHolz_braun</Italian>
+					<German d:type="cDeltaString">RWATrackHolz_braun</German>
+					<Spanish d:type="cDeltaString">RWATrackHolz_braun</Spanish>
+					<Dutch d:type="cDeltaString">RWATrackHolz_braun</Dutch>
+					<Polish d:type="cDeltaString">RWATrackHolz_braun</Polish>
+					<Russian d:type="cDeltaString">RWATrackHolz_braun</Russian>
+					<Other/>
+					<Key d:type="cDeltaString"></Key>
+				</Localisation-cUserLocalisedString>
+			</DisplayName>
+			<EditorGroundOffset d:type="sFloat32" d:alt_encoding="000000403333D33F" d:precision="string">0.3</EditorGroundOffset>
+			<TrafficManagerBpID d:type="cDeltaString"></TrafficManagerBpID>
+			<Render>
+				<cSectionRenderBlueprint>
+					<CrossSectionID d:type="cDeltaString">RWAustria_3\Schoberpass\RailNetwork\RWA_Track\Track\RWATrack_braun</CrossSectionID>
+					<CrossSectionCapID d:type="cDeltaString">RWAustria_3\Schoberpass\RailNetwork\RWA_Track\Track\RWATrack_braun_cap</CrossSectionCapID>
+					<CrossSectionWidth d:type="sFloat32" d:alt_encoding="0000000000001040" d:precision="string">4</CrossSectionWidth>
+					<CrossSectionHeight d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</CrossSectionHeight>
+					<CatenaryID d:type="cDeltaString"></CatenaryID>
+					<StartGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_braun_end.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</StartGeometryBPID>
+					<MiddleGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\Holzschwelle.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</MiddleGeometryBPID>
+					<EndGeometryBPID>
+						<iBlueprintLibrary-cAbsoluteBlueprintID>
+							<BlueprintSetID>
+								<iBlueprintLibrary-cBlueprintSetID>
+									<Provider d:type="cDeltaString">RWAustria_3</Provider>
+									<Product d:type="cDeltaString">Schoberpass</Product>
+								</iBlueprintLibrary-cBlueprintSetID>
+							</BlueprintSetID>
+							<BlueprintID d:type="cDeltaString">RailNetwork\RWA_Track\Track\RWATrack_braun_end.xml</BlueprintID>
+						</iBlueprintLibrary-cAbsoluteBlueprintID>
+					</EndGeometryBPID>
+					<RotateEndGeometry d:type="cDeltaString">eTrue</RotateEndGeometry>
+					<PopulationFrequency d:type="sFloat32" d:alt_encoding="000000403333E33F" d:precision="string">0.6</PopulationFrequency>
+					<ProfileMatchesPopulation d:type="cDeltaString">eFalse</ProfileMatchesPopulation>
+					<LeftOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</LeftOffset>
+					<RightOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</RightOffset>
+					<CapIfSectionTypeChange d:type="cDeltaString">eFalse</CapIfSectionTypeChange>
+					<StartBufferOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</StartBufferOffset>
+					<EndBufferOffset d:type="sFloat32" d:alt_encoding="0000000000000000" d:precision="string">0</EndBufferOffset>
+					<EditorOnly d:type="cDeltaString">eFalse</EditorOnly>
+					<SpecialCurve d:type="cDeltaString">eInvalid</SpecialCurve>
+				</cSectionRenderBlueprint>
+			</Render>
+			<CanEditWidth d:type="cDeltaString">eFalse</CanEditWidth>
+			<MinimumWidth d:type="sFloat32" d:alt_encoding="000000000000E03F" d:precision="string">0.5</MinimumWidth>
+			<MaximumWidth d:type="sFloat32" d:alt_encoding="0000000000005940" d:precision="string">100</MaximumWidth>
+			<Category d:type="cDeltaString">eScenery</Category>
+			<BoundingBox/>
+		</cLoftSectionBlueprint>
+	</Blueprint>
+</cBlueprintLoader>
